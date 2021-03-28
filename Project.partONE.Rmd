@@ -1,13 +1,4 @@
----
-title: "Statistical Inference Project part one"
-author: "DanH"
-date: "August 13, 2016"
-output: 
-  html_document:
-    keep_md: yes
-    theme: readable
-  pdf_document: default
----
+
 
 
 ---
