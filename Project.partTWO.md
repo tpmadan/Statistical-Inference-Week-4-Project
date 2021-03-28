@@ -1,8 +1,5 @@
 # Stat.Inf. Project, part2
-DanH  
-August 13, 2016  
 
----
 
 ####Instructions
 
