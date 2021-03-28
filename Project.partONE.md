@@ -1,9 +1,5 @@
 # Statistical Inference Project part one
-DanH  
-August 13, 2016  
 
-
----
 
 Here we want to run a simulation consisting in generating 40 variables from an exponential function with
 given parameters and repeating this for 1000 times. Then we compute the mean for each simulation(1000
